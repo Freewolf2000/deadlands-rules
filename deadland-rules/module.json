@@ -13,7 +13,7 @@
    "packs": [
     {
       "name": "Edges-Deadlands",
-      "label": "Edges Deadlands",
+      "label": "Edges (Deadlands)",
       "system": "swade",
       "path": "./packs/edges-deadlands.db",
       "entity": "Item",
