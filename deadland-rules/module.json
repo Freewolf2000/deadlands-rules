@@ -3,7 +3,7 @@
    "title": "Deadlands Rule Set",   
    "description": "Deadlands Weird West rules and data",   
    "author": "Pinnacle Entertianment Group",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "minimumCoreVersion": "0.6.6",
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
@@ -24,6 +24,22 @@
       "label": "Edges Deadlands Companion",
       "system": "swade",
       "path": "./packs/edges-deadlands-companion.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Powers-Deadlands",
+      "label": "Powers Deadlands",
+      "system": "swade",
+      "path": "./packs/powers-deadlands.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Powers-Deadlands-Companion",
+      "label": "Powers Deadlands Companion",
+      "system": "swade",
+      "path": "./packs/powers-deadlands-companion.db",
       "entity": "Item",
       "module": "deadlands-rules"
     }
