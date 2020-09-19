@@ -12,9 +12,10 @@
    "download": "https://github.com/Freewolf2000/deadlands-rules/raw/master/deadland-rules.zip",
    "packs": [
     {
-      "name": "edges-deadlands",
+      "name": "Edges-Deadlands",
       "label": "Edges Deadlands",
-      "path": "packs/edges-deadlands.db",
+      "system": "swade",
+      "path": "./packs/edges-deadlands.db",
       "entity": "Item",
       "module": "deadlands-rules"
     }
