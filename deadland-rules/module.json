@@ -3,7 +3,7 @@
    "title": "Deadlands Rule Set",   
    "description": "Deadlands Weird West rules and data",   
    "author": "Pinnacle Entertianment Group",
-   "version": "0.1.4",
+   "version": "1.0.0",
    "minimumCoreVersion": "0.6.6",
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
@@ -105,6 +105,22 @@
       "system": "swade",
       "path": "./packs/gear-deadlands-ranged-weapons.db",
       "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Rules-Deadlands",
+      "label": "Rules Deadlands",
+      "system": "swade",
+      "path": "./packs/rules-deadlands.db",
+      "entity": "JournalEntry",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Tables-Deadlands",
+      "label": "Tables Deadlands",
+      "system": "swade",
+      "path": "./packs/tables-deadlands.db",
+      "entity": "RollTable",
       "module": "deadlands-rules"
     }
   ]
