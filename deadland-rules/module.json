@@ -1,0 +1,22 @@
+{   
+   "name": "deadlands-rules",   
+   "title": "Deadlands Rule Set",   
+   "description": "Deadlands Weird West rules and data",   
+   "author": "Pinnacle Entertianment Group",
+   "version": "0.1.0",
+   "minimumCoreVersion": "0.6.6",
+   "compatibleCoreVersion":"0.6.6",
+   "systems": ["swade"],
+   "url": "https://github.com/Freewolf2000/deadlands-rules",
+   "manifest": "https://raw.githubusercontent.com/Freewolf2000/deadlands-rules/master/module.json",
+   "download": "https://github.com/Freewolf2000/deadlands-rules/releases/download/0.1.0/deadlands-rules.zip",
+   "packs": [
+    {
+      "name": "edges-deadlands",
+      "label": "Edges Deadlands",
+      "path": "packs/edges-deadlands.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    }
+  ]
+}
