@@ -3,7 +3,7 @@
    "title": "Deadlands Rule Set",   
    "description": "Deadlands Weird West rules and data",   
    "author": "Pinnacle Entertianment Group",
-   "version": "0.1.3",
+   "version": "0.1.4",
    "minimumCoreVersion": "0.6.6",
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
@@ -48,6 +48,62 @@
       "label": "Hindrances Deadlands",
       "system": "swade",
       "path": "./packs/hindrances-deadlands.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Skills-Deadlands",
+      "label": "Skills Deadlands",
+      "system": "swade",
+      "path": "./packs/skills-deadlands.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Common-Gear",
+      "label": "Gear Deadlands Common Gear",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-common-gear.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Explosives",
+      "label": "Gear Deadlands Explosives",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-explosives.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Gatling-Weapons",
+      "label": "Gear Deadlands Gatling Weapons",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-gatling-weapons.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Infernal-Devices",
+      "label": "Gear Deadlands Infernal Devices",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-infernal-devices.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Melee-Weapons",
+      "label": "Gear Deadlands Melee Weapons",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-melee-weapons.db",
+      "entity": "Item",
+      "module": "deadlands-rules"
+    },
+    {
+      "name": "Gear-Deadlands-Ranged Weapons",
+      "label": "Gear Deadlands Ranged Weapons",
+      "system": "swade",
+      "path": "./packs/gear-deadlands-ranged-weapons.db",
       "entity": "Item",
       "module": "deadlands-rules"
     }
