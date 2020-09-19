@@ -8,8 +8,8 @@
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
    "url": "https://github.com/Freewolf2000/deadlands-rules",
-   "manifest": "https://raw.githubusercontent.com/Freewolf2000/deadlands-rules/master/module.json",
-   "download": "https://github.com/Freewolf2000/deadlands-rules/releases/download/0.1.0/deadlands-rules.zip",
+   "manifest": "https://raw.githubusercontent.com/Freewolf2000/deadlands-rules/master/deadland-rules/module.json",
+   "download": "https://github.com/Freewolf2000/deadlands-rules/raw/master/deadland-rules.zip",
    "packs": [
     {
       "name": "edges-deadlands",
