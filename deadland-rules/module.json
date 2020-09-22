@@ -1,9 +1,9 @@
-{   
-   "name": "deadlands-rules",   
-   "title": "Rule Set: Deadlands Weird West",   
-   "description": "Deadlands Weird West rules and data",   
+{
+   "name": "deadlands-rules",
+   "title": "Rule Set: Deadlands Weird West",
+   "description": "Deadlands Weird West rules and data",
    "author": "Pinnacle Entertianment Group",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "minimumCoreVersion": "0.6.6",
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
@@ -106,6 +106,14 @@
       "path": "./packs/gear-deadlands-ranged-weapons.db",
       "entity": "Item",
       "module": "deadlands-rules"
+    },
+    {
+      "name": "Monster-Creation-Deadlands",
+      "label": "Monster Creation Deadlands",
+      "system": "swade",
+      "path": "./packs/monster-creation-deadlands.db",
+      "entity": "Item",
+      "module": "swade-rules"
     },
     {
       "name": "Rules-Deadlands",
