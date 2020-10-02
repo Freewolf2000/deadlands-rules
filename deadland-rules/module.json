@@ -3,7 +3,7 @@
    "title": "Rule Set: Deadlands Weird West",
    "description": "Deadlands Weird West rules and data",
    "author": "Pinnacle Entertianment Group",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "minimumCoreVersion": "0.6.6",
    "compatibleCoreVersion":"0.6.6",
    "systems": ["swade"],
